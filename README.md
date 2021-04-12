@@ -30,11 +30,11 @@
 * Flask
 * Heroku
 * Markdow
-* Django 1.11
+* Django 3.2
 
 
 ## Support and contact details
-If anyone need support concerning my project or anything related, just reach out to zilcyam@gmail.com
+If anyone need support concerning my project or anything related, just reach out to ishimwegmail@gmail.com
  
 [Here is the Link]()
 
