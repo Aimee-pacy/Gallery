@@ -36,7 +36,7 @@ Aimee Pacifique ISHIMWE
 ## Support and contact details
 If anyone need support concerning my project or anything related, just reach out to ishimwegmail@gmail.com
  
-[Here is the Link]("https://fique-gallery.herokuapp.com/")
+[Here is the Link](https://fique-gallery.herokuapp.com/)
 
 ### License
 
